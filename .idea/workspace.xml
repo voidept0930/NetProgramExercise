@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e20d9cfd-4423-4dd5-99cd-d2fb7771ba54" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetProgramExercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/app/UDPExercise/receive/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/app/UDPExercise/send/Main.java" afterDir="false" />
+    <list default="true" id="e20d9cfd-4423-4dd5-99cd-d2fb7771ba54" name="更改" comment="UDP Exercise">
+      <change afterPath="$PROJECT_DIR$/src/com/app/TCPExercise/receive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/app/TCPExercise/send/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +37,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/study/Java/NetProgramExercise/src/com/app/UDPExercise/send/Main.java",
     "vue.rearranger.settings.migration": "true",
@@ -65,11 +63,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747069828806</updated>
-      <workItem from="1747069830087" duration="129000" />
+      <workItem from="1747069830087" duration="481000" />
     </task>
+    <task id="LOCAL-00001" summary="UDP Exercise">
+      <option name="closed" value="true" />
+      <created>1747070002337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747070002337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UDP Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="UDP Exercise" />
   </component>
 </project>
